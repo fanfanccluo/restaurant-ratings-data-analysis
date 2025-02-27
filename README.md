@@ -3,5 +3,4 @@
 
 
 > # Restaurant Ratings Data Analysis Based on Proximity
-> This is the final project for COGS108 at UCSD
-> 
+> (documentation)[https://fanfanccluo.github.io/restaurant-ratings-data-analysis/yelp_analysis.html]
